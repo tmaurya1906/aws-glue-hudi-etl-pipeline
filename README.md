@@ -43,6 +43,6 @@ To build a scalable and efficient data pipeline that:
 
 ## 🖼️ Architecture
 
-![Pipeline Diagram](AWS Glue ETL Pipeline Flowchart.png)
+![Pipeline Diagram](AWS_Glue_ETL_Pipeline_Flowchart.png)
 
 
